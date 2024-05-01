@@ -1,6 +1,6 @@
 ![](https://github.com/paulusbrizzi/paulusbrizzi/blob/main/r_img/banner.png?raw=true)
 
-### Sobre mí 👋
+### About me 👋
 
 I am a recent graduate of Henry's Data Science program, where I honed my skills in manipulating and transforming data to develop impactful products. This repository serves as a showcase of the projects I've been involved in during my time at Henry. My focus extends from implementing intricate algorithms for recommendation systems to crafting interactive dashboards for thorough data analysis. My goal is to deliver solutions that empower informed decision-making and enrich the user experience.
 
